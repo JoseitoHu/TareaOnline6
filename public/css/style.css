@@ -1,0 +1,52 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+.pagina {
+    min-height: 100%;
+}
+.unica {
+    min-height: 100%;
+}
+.encabezado {
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    background-color: black;
+}
+.text-center {
+    text-align: center;
+}
+
+.centrar {
+    width: 90%;
+    max-width: 500px;
+    margin: auto;
+}
+.navegador {
+    background-color: black;
+    font-family: "Raleway", sans-serif;
+    font-size: x-large;
+    font-weight: 600;
+    text-align: center;
+    color: antiquewhite;
+}
+.principal {
+    background-color: silver;
+    font-family: "Open Sans", sans-serif;
+    font-size: x-large;
+    font-weight: 600;
+    text-align: center;
+    color: black;
+    min-height: 100%;
+}
+
+.pie {
+    background-color: black;
+    font-family: "Raleway", sans-serif;
+    font-size: x-large;
+    font-weight: 600;
+    text-align: center;
+    color: antiquewhite;
+}
